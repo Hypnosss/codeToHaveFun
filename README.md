@@ -6,7 +6,7 @@
 
 - [链接](https://github.com/Hypnosss/gobang) 五子棋 支持PVE模式与PVP模式 支持悔棋 重新开始等功能（其中PVE模式几乎没做E的策略）        
 
-- [链接](https://github.com/Hypnosss/hypnosss.github.io/tree/master/miao/lodash) 实现了大部分常见的lodash函数        
+- [链接](https://github.com/Hypnosss/hypnosss.github.io/tree/master/miao/lodash) 实现了大部分常用的lodash函数        
 
 - [链接](https://github.com/Hypnosss/scratchCard) 刮刮卡的简单实现 在被刮开的面积超过一定值时会全部展示        
 
